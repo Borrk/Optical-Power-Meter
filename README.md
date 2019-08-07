@@ -3,7 +3,7 @@ An optical power meter which is used to measure the power of laser. it is develo
 
 ## Getting Started
 
-The device is almost as same as the following one, working together with a laser source, it is a laser generator for different wave length, like 850 nm, 1310 nm, 1590 nm.
+The device is almost as same as the following one, it can measure the power of laser for different wave length, like 850 nm, 1310 nm, 1590 nm.
 
 ![](https://github.com/Borrk/Optical-Power-Meter/raw/master/doc/product.png)
 
